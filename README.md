@@ -43,11 +43,11 @@ O input para a rede se da por meio da variável digits, a qual contêm as inform
 - **target_names**: Target Nominal;
 
 
-Para esse protótipo, será utilizado como 'Y', ou, variável de precição, o label de classificação **target**.
+Para esse exemplo, será utilizado como 'Y', ou, variável de precição, o label de classificação **target**.
 
 #  Execução
 
-Para a exeução do protótipo, é necessário a utilização do comando no terminal
+Para a exeução do exemplo, é necessário a utilização do comando no terminal
 
 ```
 python3 main.py
