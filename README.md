@@ -43,7 +43,7 @@ O input para a rede se da por meio da variável digits, a qual contêm as inform
 - **target_names**: Target Nominal;
 
 
-Para esse exemplo, será utilizado como 'Y', ou, variável de precição, o label de classificação **target**.
+Para esse exemplo, será utilizado como 'Y', ou, variável de predição, o label de classificação **target**.
 
 #  Execução
 
